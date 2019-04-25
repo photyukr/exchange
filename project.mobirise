@@ -36,7 +36,8 @@
     "noImageResize": "",
     "uniqCompNum": 6,
     "versionPublish": "4.9.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": "<body align=\"center\">\r\n<a href=\"https://www.foreignexchangeresource.com\">Free currency converter</a> provided by <a href=\"https://www.foreignexchangeresource.com\">Foreign Exchange Resource</a>.\r\n\r\n\r\n</body>"
   },
   "pages": {
     "index.html": {
